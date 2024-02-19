@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCosAFPp0ujPEo3V6RNWirK4qiSkScwt0k",
-  authDomain: "hunt-your-vacancy-60250.firebaseapp.com",
-  projectId: "hunt-your-vacancy-60250",
-  storageBucket: "hunt-your-vacancy-60250.appspot.com",
-  messagingSenderId: "889976535782",
-  appId: "1:889976535782:web:6a30d3a569f7b188119927"
+  apiKey: "AIzaSyDQ8lOvlOWsBjlx3UmI9yBGXKM8mJn5Dmo",
+  authDomain: "hunt-your-vacancy-29383.firebaseapp.com",
+  projectId: "hunt-your-vacancy-29383",
+  storageBucket: "hunt-your-vacancy-29383.appspot.com",
+  messagingSenderId: "1082620858240",
+  appId: "1:1082620858240:web:719d7f7ccafab327c13b65"
 };
 
 // Initialize Firebase
