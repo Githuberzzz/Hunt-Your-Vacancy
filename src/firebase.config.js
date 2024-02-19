@@ -2,14 +2,18 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
+// Import the functions you need from the SDKs you need
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAjtHt0ZlXGN86VI0tgfBg_krki_yDJNRs",
-  authDomain: "hunt-your-vacancy.firebaseapp.com",
-  projectId: "hunt-your-vacancy",
-  storageBucket: "hunt-your-vacancy.appspot.com",
-  messagingSenderId: "796683521491",
-  appId: "1:796683521491:web:ca96fe0da2b76b93c4b326"
+  apiKey: "AIzaSyCosAFPp0ujPEo3V6RNWirK4qiSkScwt0k",
+  authDomain: "hunt-your-vacancy-60250.firebaseapp.com",
+  projectId: "hunt-your-vacancy-60250",
+  storageBucket: "hunt-your-vacancy-60250.appspot.com",
+  messagingSenderId: "889976535782",
+  appId: "1:889976535782:web:6a30d3a569f7b188119927"
 };
 
 // Initialize Firebase

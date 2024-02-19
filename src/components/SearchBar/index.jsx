@@ -29,6 +29,7 @@ function SearchBar(props) {
             <option value="Backend Developer">Backend Developer</option>
             <option value="Android Developer">Android Developer</option>
             <option value="Developer Advocate">Developer Advocate</option>
+            <option value="Editor">Editor</option>
         </select>
         <select onChange={handleChange} name="type" value={jobCriteria.type} className='w-64 py-3 pl-4 bg-zinc-200 font-semibold rounded-md'>
             <option value="" disabled hidden>Job Type</option>
