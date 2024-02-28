@@ -40,6 +40,19 @@ function SearchBar(props) {
                 <option value="Construction Worker">Construction Worker</option>
                 <option value="Nurse">Nurse</option>
                 <option value="Teacher">Teacher</option>
+                <option value="Textile Designer">Textile Designer</option>
+                <option value="Textile Engineer">Textile Engineer</option>
+                <option value="Production Manager (Textiles)">Production Manager (Textiles)</option>
+                <option value="Quality Control Inspector (Textiles)">Quality Control Inspector (Textiles)</option>
+                <option value="Industrial Engineer">Industrial Engineer</option>
+                <option value="Manufacturing Supervisor">Manufacturing Supervisor</option>
+                <option value="Production Planner">Production Planner</option>
+                <option value="Operations Manager">Operations Manager</option>
+                <option value="Baker">Baker</option>
+                <option value="Pastry Chef">Pastry Chef</option>
+                <option value="Food Scientist">Food Scientist</option>
+                <option value="Food Production Worker">Food Production Worker</option>
+                <option value="Food Safety Specialist">Food Safety Specialist</option>
             </select>
             <select onChange={handleChange} name="type" value={jobCriteria.type} className='w-64 py-3 pl-4 bg-zinc-200 font-semibold rounded-md'>
                 <option value="" disabled hidden>Job Type</option>
